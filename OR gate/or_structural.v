@@ -3,4 +3,4 @@ module or_gate(a,b,y);
   output y;
 
   or(y,a,b);
-end module
+endmodule
